@@ -1,8 +1,8 @@
   “Charity Funding Platform using Blockchain”
   
   👨‍💻 Team members
-Rakesh 
-Ravinder Mehra
+.  Rakesh 
+.  Ravinder Mehra
 
 🙏 Mentors
 Sparsh Sharma 
