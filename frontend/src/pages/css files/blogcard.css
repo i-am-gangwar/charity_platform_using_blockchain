@@ -1,0 +1,139 @@
+.textarea {
+    box-sizing: border-box;
+    resize: none;
+    overflow: auto;
+    height: auto;
+    padding: 8px;
+    margin-left: 75px;
+    margin-top: -24px;
+    outline: none;
+    font-size: 16px;
+    border: none;
+    font-weight: 550;
+}
+
+.container_div {
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top: 80px;
+}
+
+.card_div {
+    margin: 20px;
+    float: left;
+    border-radius: 80px;
+    border: 1px solid black;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: auto;
+    padding-top: 20px;
+}
+
+.card_div:hover,
+.textarea:hover {
+    background-image: linear-gradient(to right top, #c3c5cc, #c0ccd2, #bfd2d2, #c5d7cd, #d5dac7);
+}
+
+.card_div_1 {
+    float: left;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.card_div_1 table tr td {
+    text-align: right;
+}
+
+.card_div_2 {
+    float: left;
+    font-size: 16px;
+    font-weight: 550;
+}
+
+.textarea_div {
+    clear: both;
+    margin-left: 140px;
+    justify-content: flex-start;
+}
+
+.textarea_div div {
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: 550;
+    width: 50px;
+}
+
+.card_div_2 table tr td {
+    text-align: left;
+    padding-left: 25px;
+}
+
+.button-28 {
+    background-color: transparent;
+    border: 2px solid #1A1A1A;
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: black;
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roobert, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    font-weight: 600;
+    line-height: normal;
+    outline: none;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    transition: all 300ms cubic-bezier(.23, 1, 0.32, 1);
+}
+
+.button-28:disabled {
+    pointer-events: none;
+}
+
+.button-28:hover {
+    color: #fff;
+    background-color: #1A1A1A;
+    box-shadow: rgba(0, 0, 0, 0.25) 0 8px 15px;
+    transform: translateY(-2px);
+}
+
+.button-28:active {
+    box-shadow: none;
+    transform: translateY(0);
+}
+
+
+/*  */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+.progress {
+    background-color: #f1f0f0;
+    border-radius: 20px;
+    position: relative;
+    margin: 5px 0;
+    height: 30px;
+    width: 230px;
+    border: 2px solid black;
+}
+
+.progress-done {
+    background: linear-gradient(to left, #55d45b, #3ae86e);
+    box-shadow: 0 3px 3px -5px #F2709C, 0 2px 5px #F2709C;
+    border-radius: 20px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 0;
+    opacity: 0;
+    transition: 1s ease 0.3s;
+    font-size: 18px;
+}

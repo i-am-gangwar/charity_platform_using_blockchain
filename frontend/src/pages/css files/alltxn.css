@@ -1,0 +1,28 @@
+h6 {
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+}
+
+.main_div_of_alltxn_page {
+    margin-left: 100px;
+    width: 90%;
+    margin-bottom: 50px;
+}
+
+.alltxn_center_div {
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 2px solid black;
+    color: rgb(4, 49, 27);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 50px;
+    font-weight: bold;
+}
+
+.heading_one {
+    color: rgb(242, 15, 15);
+    font-size: 18px;
+    margin-right: 10px;
+}
