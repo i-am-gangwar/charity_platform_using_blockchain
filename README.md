@@ -1,19 +1,18 @@
 # Charity Funding Platform using Blockchain
 
 # 👨‍💻 Team Members
- - **Rakesh**
-- **Ravinder Mehra**
+ - [Rakesh ](https://github.com/i-am-gangwar)
+- [Ravinder Mehra ](https://github.com/RavinMehra)
 
 
 # 🙏 Mentor
-- **Dr. Sparsh Sharma**
+- [Dr. Sparsh Sharma](https://nitsri.ac.in/Pages/FacultyProfile.aspx?nEmpID=iog&nDeptID=cs)
 
 # 🤔 About Project
 - **This  model is to create a platform using blockchain technology to create a secure and trustworthy charity scheme.**
 - **Blockchain was used to provide the transparency in fund distribution.**
 - **Rinkeby test network was used for transactions.**
 - **This model will increase the public trust in charity organizations and more people will donate.**
-
 
 
 
@@ -31,7 +30,6 @@
     - **back end**
     - **Smart contract**
     - **Integrtion**
-    
 
 ## Useful Routes
 - #### /Home
