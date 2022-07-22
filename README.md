@@ -134,7 +134,7 @@ run npm start,this will start your application on localhost  3000
  
 
  - **Donating**
-![App Screenshot](https://github.com/i-am-gangwar/charity_platform_using_blockchain/blob/main/Screenshots/8_Donating.png?raw=true)
+![App Screenshot](https://github.com/i-am-gangwar/charity_platform_using_blockchain/blob/main/Screenshots/8_Donating_money.png?raw=true)
 
 - **Money donated**
 ![App Screenshot](https://github.com/i-am-gangwar/charity_platform_using_blockchain/blob/main/Screenshots/9_donated.png?raw=true)
