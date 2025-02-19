@@ -21,7 +21,7 @@
  
   ## This model has two basic user roles
   - #### Donor– Anyone can visit and donate from their metamask wallet.
-  - #### Beneficiary– Need to create account first. Then raise projects by filling fundraiser form and collect charity.
+  - #### Beneficiary– Need to create account first. Then raise fund by filling fundraiser form and collect charity.
    
     ## Platform Flow chart 
       ![add flow chart image ](https://github.com/i-am-gangwar/charity_platform_using_blockchain/blob/main/Screenshots/11_project_flow_chart.png?raw=true)
